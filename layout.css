@@ -1,1 +1,51 @@
-header {}
+.directory li {
+    display: inline;
+    font-size: 25px;
+    padding: 10px 30px;
+}
+
+
+h1 {
+    font-size: 50px;
+    font: ;
+}
+
+.profile-picture {
+    max-width: 100%;
+    height: auto;
+}
+
+.ex-pictures img {
+    width: 300px;
+    height: 250px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.link-list li {
+    font-size: 25px;
+    padding: 10px 30px;
+}
+
+div.entire-form {
+
+    display: block;
+    text-align: left;
+}
+
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.ex-pictures {
+
+    column-count: 3;
+    align-content: left;
+
+}

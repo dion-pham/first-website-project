@@ -40,3 +40,7 @@ Navigation Bar linking to all 4 pages
 A label for each image
 Clicking on the image opens the source of that image in a new window
 Each page must be appropriately and pleasantly styled using CSS.
+
+
+to do list:
+-add labels to picture
